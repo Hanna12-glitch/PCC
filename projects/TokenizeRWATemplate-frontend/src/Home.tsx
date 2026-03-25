@@ -29,7 +29,7 @@ export default function Home() {
             Childcare. Eldercare. Household work. Project Care Coin turns your invisible labour into digital money...
           </p>
 
-    
+          
 
           <p className="mt-6 text-lg sm:text-xl text-[#141938]/70 dark:text-slate-300 max-w-xl mx-auto leading-relaxed font-medium">
             ... and into a verified, on-chain asset — recognised, recorded, and real.
